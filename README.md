@@ -1,4 +1,8 @@
-# Grocery-Tracking-Program
+# Grocery-Tracking-Program for Corner Grocer
+
+Your task is to build an item-tracking program for the Corner Grocer, which should incorporate all of their requested functionality.
+
+The Corner Grocer needs a program that analyzes the text records they generate throughout the day. These records list items purchased in chronological order from the time the store opens to the time it closes. They are interested in rearranging their produce section and need to know how often items are purchased so they can create the most effective layout for their customers.
 
 The Corner Grocer program is a text-based C++ application designed to track and analyze the 
 frequency of items purchased in a grocery store. It uses a menu-driven interface to allow users to 
